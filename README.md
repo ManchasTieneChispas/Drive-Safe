@@ -7,3 +7,5 @@ To use simply setup the phone on your dashboard with a phone dashboard mount, wi
 ### How?
 The app uses PERCLOS (Percentage of Eyelid Closure) to determine if the driver is becoming drowsy. PERCLOS is proven to be effective for this. 
 The automatic crash detection uses the phones onboard accelerometer to determine if there has been an acceleration consistent with an accident.
+
+note: this project was not originally created on github, and has been uploaded after completion
